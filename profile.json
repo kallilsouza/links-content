@@ -3,5 +3,60 @@
         "name": "Kallil Souza dos Santos",
         "avatar": "https://avatars.githubusercontent.com/u/54673383?v=4",
         "bio": "This is me."
+    },
+    "links": {
+        "social": [
+            {
+                "platform": "instagram",
+                "url": "kallilsouza"
+            },
+            {
+                "platform": "facebook",
+                "id": "okallil"
+            },
+            {
+                "platform": "threads",
+                "id": "kallilsouza"
+            },
+            {
+                "platform": "twitter",
+                "id": "kallilsouza"
+            },
+            {
+                "platform": "linkedin",
+                "id": "kallil"
+            },
+            {
+                "platform": "github",
+                "id": "kallilsouza"
+            },
+            {
+                "platform": "youtube",
+                "id": "UCwX84NbI8gkb4CaDemLZtyw"
+            },
+            {
+                "platform": "spotify",
+                "id": "kallilsouza"
+            },
+            {
+                "platform": "tiktok",
+                "id": "kallilsz"
+            },
+            {
+                "platform": "bluesky",
+                "id": "kallil.net.br"
+            },
+            {
+                "platform": "mastodon",
+                "id": "kallilsouza"
+            }
+        ],
+        "emails": ["eu@kallil.net.br"],
+        "generic": [
+            {
+                "title": "Dev website",
+                "url": "https://dev.kallil.net.br"
+            }
+        ]
     }
 }
