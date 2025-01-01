@@ -49,9 +49,12 @@
             {
                 "platform": "mastodon",
                 "id": "kallilsouza"
+            },
+            {
+                "platform": "email",
+                "id": "eu@kallil.net.br"
             }
         ],
-        "emails": ["eu@kallil.net.br"],
         "generic": [
             {
                 "title": "Dev website",
